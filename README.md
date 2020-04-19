@@ -1,6 +1,6 @@
 ![](https://eskutkaan.github.io/hya-equine/img/new.png)
 
-# Hya-equine
+# __Hya-equine__
 # Hakkımızda 
 
 **Hya-equine** markamız, İstanbul Üniversitesi Moleküler Biyoloji ve Genetik bölümü 4. sınıf öğrencileri Kaan İhsan Eşkut, Reyhan Aydın, İrem Zengin ve Berfin Aşkın tarafından Nisan 2020 yılında kurulmuştur.
