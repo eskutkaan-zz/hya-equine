@@ -24,6 +24,7 @@ Hya-equine© kil bazlı solüsyonumuz, atlarınızın günlük bakımı dahilind
   - yenilikçi ARGE yaklaşımı ile farklı ve güvenilir, uygun fiyat politikası ile ulaşılabilir ürünler sunarak, tüm dünya at sağlığı sektörüyle ürünümüzü buluşturmak üzere adamış bulunmaktayız.
   
 # Vizyonumuz
+
 Vizyonumuz, ürünlerimize her yerden ve en kolay şekilde ulaşılabilirliği sağlamak, müşteri ihtiyaç ve beklentilerini en üst düzeyde karşılamak ve bunu yaparken tüm dünyada kabul görmüş genel kalite standartlarını uygulamaktır.
 
 # Değerlerimiz 
