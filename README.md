@@ -1,4 +1,4 @@
-![](https://eskutkaan.github.io/hya-equine/img/new.png)
+                             ![](https://eskutkaan.github.io/hya-equine/img/new.png)
 
 # Hya-equine
 # Hakkımızda 
