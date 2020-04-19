@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/eskutkaan/hya-equine/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.png" >
+<img src="https://github.com/eskutkaan/hya-equine/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.png" >
 <p>hya-equine</p>
 </div>
                                                                                                  
