@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/eskutkaan/hya-equine/master/new.png" >
-<p></p>
+<img src="img/new.png" >
 </div>
                                                                                                  
 # hya-equine
