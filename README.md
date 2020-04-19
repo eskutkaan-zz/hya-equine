@@ -5,8 +5,6 @@
 
 **Hya-equine** markamız, İstanbul Üniversitesi Moleküler Biyoloji ve Genetik bölümü 4. sınıf öğrencileri Kaan İhsan Eşkut, Reyhan Aydın, İrem Zengin ve Berfin Aşkın tarafından Nisan 2020 yılında kurulmuştur.
 
-Atlara olan ilgimiz, sevgimiz ve koruma duygumuzdan ötürü ve gerek üniversitemizin kıymetli hocalarımızdan aldığımız bilgiler doğrultusunda gerekse kişisel olarak geliştirdiğimiz bilgilerimiz doğrultusunda ürünümüzü geliştirdik.
-
 Atlara olan ilgimizin yanısıra, onların sağlığına yönelik gözlemlerimizin ve soruna yönelik çözüm üretme politikamızın etkisi, kıymetli danışanlarımızın da yardımı ile Hya-equine hem bir marka hem de markanın bir ürünü olarak ortaya çıkmıştır. 
 
 Hya-equine markasının bir ürünü olarak Hya-equine©, hyalüronik asit ve kollajence zengin içeriğiyle yarış atlarınız için bilimsel ve yenilikçi çözümler sunar.
