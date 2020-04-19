@@ -1,7 +1,5 @@
-<div align="center">
-<img src="img/new.png" >
-</div>
-                                                                                                 
+![](https://eskutkaan.github.io/hya-equine/img/new.png)
+
 # hya-equine
 # Hakkımızda 
 
