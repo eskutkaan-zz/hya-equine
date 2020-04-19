@@ -1,4 +1,4 @@
-[hya-equine](https://github.com/eskutkaan/hya-equine/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.png)
+![hya-equine](https://github.com/eskutkaan/hya-equine/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.png)
 # hya-equine
 # Hakkımızda 
 
