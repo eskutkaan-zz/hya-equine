@@ -13,7 +13,7 @@ Hya-equine markasının bir ürünü olarak Hya-equine©, hyalüronik asit ve ko
 
 ### Nasıl Kullanılır?
 
-**Hya-equine©** kil bazlı solüsyonumuz, atlarınızın günlük bakımı dahilinde, istirahat başlangıcından bitişine kadar, diz üst sınırından pastern bölgesinin alt sınırını kapsayacak şekilde uygulanmalı ve ince bir bandaj yardımıyla bölge korunmalıdır.
+Hya-equine© kil bazlı solüsyonumuz, atlarınızın günlük bakımı dahilinde, istirahat başlangıcından bitişine kadar, diz üst sınırından pastern bölgesinin alt sınırını kapsayacak şekilde uygulanmalı ve ince bir bandaj yardımıyla bölge korunmalıdır.
 
 
 # Misyonumuz
