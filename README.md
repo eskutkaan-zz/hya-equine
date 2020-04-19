@@ -7,9 +7,9 @@
 
 Atlara olan ilgimizin yanısıra, onların sağlığına yönelik gözlemlerimizin ve soruna yönelik çözüm üretme politikamızın etkisi, kıymetli danışanlarımızın da yardımı ile Hya-equine hem bir marka hem de markanın bir ürünü olarak ortaya çıkmıştır. 
 
+## Ürünümüz
 Hya-equine markasının bir ürünü olarak Hya-equine©, hyalüronik asit ve kollajence zengin içeriğiyle yarış atlarınız için bilimsel ve yenilikçi çözümler sunar.
 
-## Ürünümüz
 ### Nasıl Kullanılır?
 
 Atlarınızın günlük bakımı dahilinde istirahat saatleri boyunca kil bazlı solüsyonumuz istirahat zamanının bitişine kadar diz üst sınırından pastern bölgesinin alt sınırını kapsayacak şekilde solüsyonumuz uygulanmalı ve ince bir bandaj yardımıyla bölge korunmalıdır.
