@@ -1,6 +1,6 @@
 ![](https://eskutkaan.github.io/hya-equine/img/new.png)
 
-# hya-equine
+# Hya-equine
 # Hakkımızda 
 
 **Hya-equine** markamız, İstanbul Üniversitesi Moleküler Biyoloji ve Genetik bölümü 4. sınıf öğrencileri Kaan İhsan Eşkut, Reyhan Aydın, İrem Zengin ve Berfin Aşkın tarafından Nisan 2020 yılında kurulmuştur.
@@ -8,11 +8,12 @@
 Atlara olan ilgimizin yanısıra, onların sağlığına yönelik gözlemlerimizin ve soruna yönelik çözüm üretme politikamızın etkisi, kıymetli danışanlarımızın da yardımı ile Hya-equine hem bir marka hem de markanın bir ürünü olarak ortaya çıkmıştır. 
 
 ## Ürünümüz
-Hya-equine markasının bir ürünü olarak Hya-equine©, hyalüronik asit ve kollajence zengin içeriğiyle yarış atlarınız için bilimsel ve yenilikçi çözümler sunar.
+Hya-equine markasının bir ürünü olarak Hya-equine©, hyalüronik asit ve kollajence zengin içeriğiyle yarış atlarınız için bilimsel ve yenilikçi çözümler sunar. Kil bazlı olan solüsyonumuz, atların günün pasif vakitlerinde onları dinlendirmeye ek olarak; uygulandığı bölgede yeni hücrelerin oluşumuna, varsa yaranın hızlı onarımına yardımcı olur.
+
 
 ### Nasıl Kullanılır?
 
-Atlarınızın günlük bakımı dahilinde istirahat saatleri boyunca kil bazlı solüsyonumuz istirahat zamanının bitişine kadar diz üst sınırından pastern bölgesinin alt sınırını kapsayacak şekilde solüsyonumuz uygulanmalı ve ince bir bandaj yardımıyla bölge korunmalıdır.
+**Hya-equine©** kil bazlı solüsyonumuz, atlarınızın günlük bakımı dahilinde, istirahat başlangıcından bitişine kadar, diz üst sınırından pastern bölgesinin alt sınırını kapsayacak şekilde uygulanmalı ve ince bir bandaj yardımıyla bölge korunmalıdır.
 
 
 # Misyonumuz
@@ -26,4 +27,4 @@ Atlarınızın günlük bakımı dahilinde istirahat saatleri boyunca kil bazlı
 Vizyonumuz, ürünlerimize her yerden ve en kolay şekilde ulaşılabilirliği sağlamak, müşteri ihtiyaç ve beklentilerini en üst düzeyde karşılamak ve bunu yaparken tüm dünyada kabul görmüş genel kalite standartlarını uygulamaktır.
 
 # Değerlerimiz 
-**Hya-equine**; kaliteye, eşitliğe ve parçası olduğumuz dünyadaki değişimlere ve çeşitliliğe değer vermeyi amaç edinmiştir. Dürüstlüğü, şeffaflığı ve etik kuralları benimseyen, hayvan haklarına saygılı, çevreye duyarlı, yaratıcı ve yenilikçi olmaya önem veren, takım çalışmasını ve çalışanlarının gelişimini destekleyen bir ekip olmak birincil önceliğimizdir.
+**Hya-equine** olarak; dürüstlüğü, şeffaflığı ve etik kurallara uygun olmayı ön planda tutan, hayvan haklarına saygılı, çevreye duyarlı, yaratıcı ve yenilikçi olmaya önem veren, takım çalışmasını ve çalışanlarının gelişimini destekleyen bir ekip olmak, markamızın kalite ve gelişim amaçlı değerlerindendir.
